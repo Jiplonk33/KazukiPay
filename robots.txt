@@ -1,0 +1,19 @@
+User-agent: *
+# Izinkan Google mengindeks halaman utama
+Allow: /
+Allow: /index.php?page=landing
+
+# Larang Google mengindeks halaman login, register, dashboard, dan admin
+Disallow: /index.php?page=auth_login
+Disallow: /index.php?page=auth_register
+Disallow: /index.php?page=dashboard
+Disallow: /index.php?page=projects
+Disallow: /index.php?page=transactions
+Disallow: /index.php?page=withdrawals
+Disallow: /index.php?page=webhook_logs
+Disallow: /index.php?page=documentation
+
+# Larang Google mengindeks seluruh folder admin
+Disallow: /yogate/
+
+Sitemap: <?php echo $base_url; ?>/sitemap.xml
