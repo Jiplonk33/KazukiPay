@@ -1,0 +1,744 @@
+[09-Nov-2025 22:27:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "kqopq52i3repttoi7jb811gonqb6qnp0" in /home/yogatewayweb/public_html/google-auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yogatewayweb/public_html/google-auth.php on line 10
+[09-Nov-2025 22:27:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "kqopq52i3repttoi7jb811gonqb6qnp0" in /home/yogatewayweb/public_html/google-auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yogatewayweb/public_html/google-auth.php on line 10
+[09-Nov-2025 22:29:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "kqopq52i3repttoi7jb811gonqb6qnp0" in /home/yogatewayweb/public_html/google-auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yogatewayweb/public_html/google-auth.php on line 10
+[09-Nov-2025 22:30:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "kqopq52i3repttoi7jb811gonqb6qnp0" in /home/yogatewayweb/public_html/google-auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yogatewayweb/public_html/google-auth.php on line 10
+[09-Nov-2025 22:36:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 40
+[09-Nov-2025 22:36:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 58
+[09-Nov-2025 22:36:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 59
+[09-Nov-2025 22:36:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 60
+[09-Nov-2025 22:36:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 61
+[09-Nov-2025 22:37:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 40
+[09-Nov-2025 22:37:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 58
+[09-Nov-2025 22:37:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 59
+[09-Nov-2025 22:37:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 60
+[09-Nov-2025 22:37:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/yogatewayweb/public_html/google-callback.php on line 61
+[12-Dec-2025 11:32:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:20 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:21 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:50 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:54 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:32:55 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:32:55 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:32:55 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:07 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:07 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:07 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:08 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:20 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:21 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:35 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:33:50 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:04 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:04 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:04 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:35 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:36 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:34:57 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:05 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:05 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:05 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:06 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:19 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:19 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:19 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:20 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:34 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:34 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:34 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 11:35:35 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 12:21:29 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 12:21:29 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 12:21:29 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 12:50:11 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 12:50:11 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 12:50:11 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 12:50:27 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 12:50:27 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 12:50:27 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 12:51:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 12:51:08 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 12:51:08 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 14:05:58 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 14:05:58 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 14:05:58 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[12-Dec-2025 20:36:46 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[12-Dec-2025 20:36:46 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[12-Dec-2025 20:36:46 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[13-Dec-2025 17:45:29 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[13-Dec-2025 17:45:29 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[13-Dec-2025 17:45:29 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[14-Dec-2025 21:16:44 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[14-Dec-2025 21:16:44 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[14-Dec-2025 21:16:44 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[18-Dec-2025 08:04:33 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[18-Dec-2025 08:04:33 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[18-Dec-2025 08:04:33 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[29-Dec-2025 12:53:12 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[29-Dec-2025 12:53:12 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[29-Dec-2025 12:53:12 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[30-Dec-2025 17:47:22 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[30-Dec-2025 17:47:22 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[30-Dec-2025 17:47:22 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[30-Dec-2025 17:47:31 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[30-Dec-2025 17:47:31 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[30-Dec-2025 17:47:31 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[30-Dec-2025 18:16:46 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[30-Dec-2025 18:16:46 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[30-Dec-2025 18:16:46 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[30-Dec-2025 18:31:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[30-Dec-2025 18:31:36 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[30-Dec-2025 18:31:36 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[01-Jan-2026 03:51:04 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[01-Jan-2026 03:51:04 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[01-Jan-2026 03:51:04 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[01-Jan-2026 03:51:23 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[01-Jan-2026 03:51:23 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[01-Jan-2026 03:51:23 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[10-Jan-2026 23:41:09 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[10-Jan-2026 23:41:09 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[10-Jan-2026 23:41:09 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[14-Jan-2026 02:36:16 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[14-Jan-2026 02:36:16 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[14-Jan-2026 02:36:16 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[14-Jan-2026 07:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/yogatewayweb/public_html/config/db.php:18
+Stack trace:
+#0 /home/yogatewayweb/public_html/index.php(29): require_once()
+#1 {main}
+  thrown in /home/yogatewayweb/public_html/config/db.php on line 18
+[18-Jan-2026 12:38:19 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[18-Jan-2026 12:38:19 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[18-Jan-2026 12:38:19 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[18-Jan-2026 18:41:00 UTC] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/yogatewayweb/public_html/index.php on line 6
+[18-Jan-2026 18:41:00 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/yogatewayweb/public_html/index.php on line 6
+[18-Jan-2026 18:41:01 UTC] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/yogatewayweb/public_html/index.php on line 6
+[18-Jan-2026 18:41:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/yogatewayweb/public_html/index.php on line 6
+[25-Jan-2026 04:29:49 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[25-Jan-2026 04:29:49 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[25-Jan-2026 04:29:49 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[31-Jan-2026 02:12:14 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[31-Jan-2026 02:12:14 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[31-Jan-2026 02:12:14 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[01-Feb-2026 23:54:24 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[01-Feb-2026 23:54:24 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[01-Feb-2026 23:54:24 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[10-Feb-2026 10:11:33 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[10-Feb-2026 10:11:33 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[10-Feb-2026 10:11:33 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[13-Feb-2026 08:56:52 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[13-Feb-2026 08:56:52 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[13-Feb-2026 08:56:52 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[16-Feb-2026 08:44:56 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[16-Feb-2026 08:44:56 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[16-Feb-2026 08:44:56 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[16-Feb-2026 08:45:15 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[16-Feb-2026 08:45:15 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[16-Feb-2026 08:45:15 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[17-Feb-2026 09:48:16 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[17-Feb-2026 09:48:16 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[17-Feb-2026 09:48:16 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[17-Feb-2026 13:24:07 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[17-Feb-2026 13:24:07 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[17-Feb-2026 13:24:07 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[19-Feb-2026 19:21:38 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[19-Feb-2026 19:21:38 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[19-Feb-2026 19:21:38 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[20-Feb-2026 12:08:51 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[20-Feb-2026 12:08:51 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[20-Feb-2026 12:08:51 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[21-Feb-2026 17:43:22 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[21-Feb-2026 17:43:22 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[21-Feb-2026 17:43:22 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[23-Feb-2026 15:18:15 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[23-Feb-2026 15:18:15 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[23-Feb-2026 15:18:15 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[23-Feb-2026 20:18:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[23-Feb-2026 20:18:57 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[23-Feb-2026 20:18:57 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[25-Feb-2026 18:48:28 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[25-Feb-2026 18:48:28 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[25-Feb-2026 18:48:28 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[26-Feb-2026 12:00:27 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[26-Feb-2026 12:00:27 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[26-Feb-2026 12:00:27 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[26-Feb-2026 14:49:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[26-Feb-2026 14:49:20 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[26-Feb-2026 14:49:20 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[26-Feb-2026 14:49:22 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[26-Feb-2026 14:49:22 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[26-Feb-2026 14:49:22 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[27-Feb-2026 18:06:46 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[27-Feb-2026 18:06:46 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[27-Feb-2026 18:06:46 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
+[28-Feb-2026 10:26:58 UTC] PHP Warning:  Constant GOOGLE_CLIENT_ID already defined in /home/yogatewayweb/public_html/config/settings.php on line 33
+[28-Feb-2026 10:26:58 UTC] PHP Warning:  Constant GOOGLE_CLIENT_SECRET already defined in /home/yogatewayweb/public_html/config/settings.php on line 34
+[28-Feb-2026 10:26:58 UTC] PHP Warning:  Constant GOOGLE_REDIRECT_URI already defined in /home/yogatewayweb/public_html/config/settings.php on line 36
